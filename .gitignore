@@ -1,0 +1,22 @@
+# Compiled Java class files
+*.class
+
+# Ignore all .pdf files
+*.pdf
+
+# IDE-specific files
+.idea/               # IntelliJ IDEA settings
+*.iml                # IntelliJ IDEA module files
+.vscode/             # VS Code settings
+
+# Logs and temporary files
+*.log                # Log files
+*.tmp                # Temporary files
+*.swp                # Swap files created by editors
+
+# OS-specific files
+.DS_Store            # macOS
+Thumbs.db            # Windows
+
+# Backup files
+*~                   # Common backup files
