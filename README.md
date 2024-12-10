@@ -1,47 +1,53 @@
-# MIT 6.092: Introduction To Programming In Java Assignments
+# MIT 6.092: Introduction to Programming in Java
 
-This repository contains assignment solutions for the online course [MIT 6.092: Introduction To Programming In Java (Jan IAP 2010)](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/).
+This repository contains my solutions to the assignments from the online course **[MIT 6.092: Introduction to Programming in Java (January IAP 2010)](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/)**.
 
-- [Course Overview](#course-overview)
-- [Assignments](#assignments)
-- [Installation](#installation)
+The course introduces software engineering concepts using the Java programming language. It emphasizes developing high-quality, working software to address real-world problems.
+
+## Table of Contents
+- [Repository Structure](#repository-structure)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
+- [Acknowledgment](#acknowledgment)
 
-## Course Overview
+## Repository Structure
 
-The course introduces fundamental concepts of programming using Java, including object-oriented programming, algorithms, and data structures. This repository includes solutions to the assignments provided in the course.
+The repository is organized by assignments, with each folder containing:
+- My solution to the corresponding assignment.
 
-## Assignments
+The official assignment descriptions can be found on the course website and are accessible [here](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/assignments/).
 
-You can find the assignments for the course [here](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/assignments/).
+## Prerequisites
 
-## Installation
+Before running the solutions in this repository, ensure your system meets the following requirements:
 
-To get a local copy of this repository, follow these steps:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/Erenkx/Think-Java.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Think-Java
-    ```
+- **Java Development Kit (JDK) 17** or later: [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+- A text editor or **Integrated Development Environment (IDE)** such as:
+  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+  - [Eclipse](https://www.eclipse.org/downloads/)
+  - [VS Code](https://code.visualstudio.com/).
 
 ## Usage
 
-To run the assignment solutions, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Erenkx/Introduction-To-Programming-In-Java.git
+   cd Introduction-To-Programming-In-Java
+   ```
 
-1. Ensure you have Java installed on your system. You can download it from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
+2. Navigate to the desired assignment folder:
+   ```bash
+   cd "Assignment 1"
+   ```
 
-2. Compile the Java files:
-    ```sh
-    javac AssignmentName.java
-    ```
+3. Compile and run the Java files using the following commands:
+   ```bash
+   javac AssignmentName.java
+   java AssignmentName
+   ```
 
-3. Run the compiled Java program:
-    ```sh
-    java AssignmentName
-    ```
+## Acknowledgment
 
-Replace `AssignmentName` with the actual name of the assignment file you want to run.
+This repository is inspired by the course **[MIT 6.092: Introduction to Programming in Java (January IAP 2010)](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/)**, offered by MIT OpenCourseWare.
+
+Special thanks to **MIT OpenCourseWare** for providing free and accessible educational resources, enabling self-learners worldwide to expand their knowledge.
