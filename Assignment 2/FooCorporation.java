@@ -30,25 +30,25 @@ public class FooCorporation {
         final int hoursWorked4 = 30;
 
         System.out.printf("Employee 1: Base Pay = $%.2f, " +
-                "Hours Worked = %d\n", basePay1, hoursWorked1);
+            "Hours Worked = %d\n", basePay1, hoursWorked1);
         calculateSalary(basePay1, hoursWorked1);
 
         System.out.println();
 
         System.out.printf("Employee 2: Base Pay = $%.2f, " +
-                "Hours Worked = %d\n", basePay2, hoursWorked2);
+            "Hours Worked = %d\n", basePay2, hoursWorked2);
         calculateSalary(basePay2, hoursWorked2);
 
         System.out.println();
 
         System.out.printf("Employee 3: Base Pay = $%.2f, " +
-                "Hours Worked = %d\n", basePay3, hoursWorked3);
+            "Hours Worked = %d\n", basePay3, hoursWorked3);
         calculateSalary(basePay3, hoursWorked3);
 
         System.out.println();
 
         System.out.printf("Employee 4: Base Pay = $%.2f, " +
-                "Hours Worked = %d\n", basePay4, hoursWorked4);
+            "Hours Worked = %d\n", basePay4, hoursWorked4);
         calculateSalary(basePay4, hoursWorked4);
     }
 
