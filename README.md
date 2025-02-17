@@ -8,11 +8,12 @@ The course introduces software engineering concepts using the Java programming l
 - [Repository Structure](#repository-structure)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
-- [Acknowledgment](#acknowledgment)
+- [Acknowledgments](#acknowledgments)
 
 ## Repository Structure
 
 The repository is organized by assignments, with each folder containing:
+
 - My solution to the corresponding assignment.
 
 The official assignment descriptions can be found on the course website and are accessible [here](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/assignments/).
@@ -21,10 +22,10 @@ The official assignment descriptions can be found on the course website and are 
 
 Before running the solutions in this repository, ensure your system meets the following requirements:
 
-- **Java Development Kit (JDK) 17** or later: [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+- **Java Development Kit (JDK) 17** or later: [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html).
 - A text editor or **Integrated Development Environment (IDE)** such as:
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-  - [Eclipse](https://www.eclipse.org/downloads/)
+  - [Eclipse](https://www.eclipse.org/)
   - [VS Code](https://code.visualstudio.com/).
 
 ## Usage
@@ -46,7 +47,7 @@ Before running the solutions in this repository, ensure your system meets the fo
    java AssignmentName
    ```
 
-## Acknowledgment
+## Acknowledgments
 
 This repository is inspired by the course **[MIT 6.092: Introduction to Programming in Java (January IAP 2010)](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/)**, offered by MIT OpenCourseWare.
 
